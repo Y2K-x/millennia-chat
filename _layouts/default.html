@@ -16,10 +16,8 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
