@@ -16,12 +16,12 @@ title: "Millennia"
 2. **Open AIM** but do not sign on yet.
 3. Click the **Setup** (yellow wrench) button, then **Connection**.
    
-   ![Windows AIM Setup Screen](images/windows-aim-setup.png)
+   ![Windows AIM Setup Screen](https://github.com/Y2K-x/millennia-chat/blob/main/images/windows-aim-setup.png)
 
 4. Replace the **Host** with `aim.millennia.chat` and make sure **Port** is set to `5190`.
 	- If you're on the show's DSL network, you should instead use the **VCFMW Show DSL** IP and port listed above.
    
-   ![Windows AIM Connection Settings](images/windows-aim-connection.png)
+   ![Windows AIM Connection Settings](https://github.com/Y2K-x/millennia-chat/blob/main/images/windows-aim-connection.png)
 
 5. Make sure **Connect using proxy** is **unchecked**.
 6. Click **OK** → **OK**.
