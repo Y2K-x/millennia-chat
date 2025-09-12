@@ -1,5 +1,5 @@
 ---
-title: "Millennia Chat"
+title: "Millennia"
 ---
 
 # Connection details
@@ -8,13 +8,11 @@ title: "Millennia Chat"
 >
 > **VCFMW Show DSL:** `TBD` — **Port:** `5191`
 
-**Protocol:** AIM (OSCAR) — **Default port: `5190`**
-
 ---
 
 ## Step‑by‑step: Connecting with a Windows AIM client
 
-1. **Install AIM** (versions **2.x–5.x** are supported with Millennia Chat).
+1. **Install AIM** (versions **2.x–5.x** are supported with Millennia).
 2. **Open AIM** but do not sign on yet.
 3. Click the **Setup** (yellow wrench) button, then **Connection**.
    
@@ -48,7 +46,7 @@ Classic AIM clients for Mac OS 7/8/9 do not provide an interface to change the s
 
 5. Locate the **"AIM Server"** entry and double-click on it.
 6. Find the default server entry (`login.oscar.aol.com`).
-7. **Replace the server string** with `aim.millennia.chat`, and replace the port string with `5190`.
+7. **Replace the server string** with `aim.millennia.chat`, and **replace the port string** with `5190`.
 	- If you're on the show's DSL network, you should instead use the "VCFMW Show DSL" IP and port listed above.
    
    ![ResEdit Edit String](images/resedit-edit-string.png)
