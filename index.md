@@ -35,7 +35,7 @@ Classic AIM clients for Mac OS 7/8/9 do not provide an interface to change the s
 5. Locate the **"AIM Server"** entry and double-click on it.
 6. Find the default server entry (`login.oscar.aol.com`).
 7. **Replace the server string** with `aim.millennia.chat`, and **replace the port string** with `5190`.
-	- If you're on the show's DSL network, you should instead use the **"VCFMW Show DSL"** IP and port listed above.
+	- If you're on the show's DSL network, you should instead use the **VCFMW Show DSL** IP and port listed above.
 8. **Save the changes** and close ResEdit.
 9. Launch AIM and sign on with your desired screen name, and use any password. <u>No sign-up required!</u>
 
