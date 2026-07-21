@@ -2,6 +2,10 @@
 title: "Millennia"
 ---
 
+# Website is currently under construction.
+
+> See you at **VCFMW 2026**!
+<!--
 # Connection details
 
 > **VCFMW Show DSL:** `172.24.3.86` — **Port:** `5190`
@@ -38,3 +42,4 @@ Classic AIM clients for Mac OS 7/8/9 do not provide an interface to change the s
 9. Launch AIM and sign on with your desired screen name, and use any password. <u>No sign-up required!</u>
 
 **Note:** Do not change any other strings or resources to avoid corrupting the application.
+-->
