@@ -1,2 +1,2 @@
-# millenia-chat
-Website for the Millenia Chat VCFMW AIM Server
+# Millennia
+Website for the Millennia VCFMW AIM Server
