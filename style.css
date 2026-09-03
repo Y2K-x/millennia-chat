@@ -65,6 +65,30 @@ img { border: 0; }
 
 h1, h2, h3 { font-family: Georgia, "Times New Roman", Times, serif; }
 
+.attn {
+	background-color: #FFFFFF;
+	border: 2px ridge #FFCC00;
+	padding: 0px;
+	margin: 18px 0px;
+}
+
+.disclaimer {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 8px;
+}
+.smalldisclaim {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 8px;
+}
+
 .sect {
 	background-color: #003399;
 	background-image: url("images/bar_tile.png");
